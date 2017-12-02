@@ -8,7 +8,7 @@ loop do
     puts "Quero imprimir a variável inteira: #{variavel_inteiro}"
     puts "Quero imprimir a variável boolean: #{variavel_boolean}"
     puts "Quero imprimir a variável string: #{variavel_string}"
-    puts "----------------------------------------"
+    puts "-------------------     ---------------------"
     break if m == 5
 
 end
